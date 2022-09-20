@@ -251,6 +251,7 @@ administration access to many services.
 Some specific clients have been tested to work and come with sample
 configuration files, or guides. See the [`example_configs`](example_configs)
 folder for help with:
+  - [Airsonic Advanced](example_configs/airsonic-advanced.md)
   - [Apache Guacamole](example_configs/apacheguacamole.md)
   - [Authelia](example_configs/authelia_config.yml)
   - [Bookstack](example_configs/bookstack.env.example)
@@ -263,6 +264,7 @@ folder for help with:
   - [Jitsi Meet](example_configs/jitsi_meet.conf)
   - [KeyCloak](example_configs/keycloak.md)
   - [Matrix](example_configs/matrix_synapse.yml)
+  - [Nextcloud](example_configs/nextcloud.md)
   - [Organizr](example_configs/Organizr.md)
   - [Portainer](example_configs/portainer.md)
   - [Seafile](example_configs/seafile.md)
